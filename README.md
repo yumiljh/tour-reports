@@ -2,7 +2,7 @@
 旅游报告
 
 ## 景点关联性分析(江门旅游报告节选)
-**游客的行程轨迹探出景点关联性。**通过对国庆景区客流的大数据分析，发现并筛选出最为显著的若干关联规则。其中，新会天马—崖门段、开平碉楼群存在较明显的客流关联规则，另外，还有一些景区间存在若干值得注意的客流关联规则。
+<strong>游客的行程轨迹探出景点关联性。</strong>通过对国庆景区客流的大数据分析，发现并筛选出最为显著的若干关联规则。其中，新会天马—崖门段、开平碉楼群存在较明显的客流关联规则，另外，还有一些景区间存在若干值得注意的客流关联规则。
 ![图1：江门部分景区存在的客流关联规则](https://upload-images.jianshu.io/upload_images/14993288-3258dfc3e81ab143.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![图2：景区客流关联规则挖掘](https://upload-images.jianshu.io/upload_images/14993288-cfcc6e8ead37e813.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
